@@ -1,29 +1,29 @@
 {
-  "version": "0.0.2",
-  "notes": "测试更新器与内置下载，无其他更新",
-  "publishedAt": "2026-10-11T04:50:02Z",
+  "version": "0.0.4",
+  "notes": "图层名改用 8 位随机号；手动传回会一次传回全部图片（以前只有一张）；插件校色修复",
+  "publishedAt": "2026-10-11T09:33:35Z",
   "app": {
-    "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.2/poem-app-0.0.2.zip",
-    "sha256": "ffdd48aff29ee42ab38f38451195ed921788b4c30757afef98db03826e3677cf",
-    "size": 2226413
+    "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.4/poem-app-0.0.4.zip",
+    "sha256": "3bf3c5b38707875d714c2d4eac738b332be24a53084f10154b323f1256db76d0",
+    "size": 2237619
   },
   "full": {
     "win32-x64": {
-      "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.2/poem-0.0.2-win32-x64.zip",
-      "sha256": "7ac71337a4640f2ac6975ba86055f761e725f9895cc013c700a145da685f74e3",
-      "size": 141450489,
+      "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.4/poem-0.0.4-win32-x64.zip",
+      "sha256": "00cea8ebed1a01ef0163114d0b757355c6b23ebfdc01145049e3087dd01c0d45",
+      "size": 141461695,
       "platform": "win32-x64"
     },
     "darwin-arm64": {
-      "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.2/poem-0.0.2-darwin-arm64.zip",
-      "sha256": "227bbb0f0558cdf5267f7751b53b9318aad49c31b66ee9cab3f0285e1da8ec89",
-      "size": 113467953,
+      "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.4/poem-0.0.4-darwin-arm64.zip",
+      "sha256": "f0ffdc9ed5e92482c3f9278b7e6cc92fb7bba92f75fe26702e5c92a16fc1551a",
+      "size": 113477306,
       "platform": "darwin-arm64"
     },
     "darwin-x64": {
-      "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.2/poem-0.0.2-darwin-x64.zip",
-      "sha256": "1311b9616a25ffa3167fc10e527490e92abcdec73830426eba07ae9d6bdc34c8",
-      "size": 118631389,
+      "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.4/poem-0.0.4-darwin-x64.zip",
+      "sha256": "bb81acfad25d4f1757144a9139f6ef9eff0bc4582c3df84b11ad175531102e51",
+      "size": 118640742,
       "platform": "darwin-x64"
     }
   },
