@@ -1,6 +1,18 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "notes": "测试更新器与内置下载，无其他更新",
+  "publishedAt": "2026-10-11T03:49:36Z",
+  "app": {
+    "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.2/poem-app-0.0.2.zip",
+    "sha256": "00f04318ef162ed6fc2f1973a14a5225fd96b429e2605990369cf764537a43ac",
+    "size": 2226413
+  },
+  "full": {
+    "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.2/poem-0.0.2-win32-x64.zip",
+    "sha256": "7ac71337a4640f2ac6975ba86055f761e725f9895cc013c700a145da685f74e3",
+    "size": 141450489
+  },
+  "pageUrl": "https://github.com/syyxl3111/poem-update/releases/latest",
   "url": "https://github.com/syyxl3111/poem-update/releases/latest",
-  "notes": "当前最新版本 v0.0.1。下载后双击 PoemTool.exe 即可（免安装）。",
-  "publishedAt": "2026-10-10T16:26:40Z"
+  "requiresFull": false
 }
