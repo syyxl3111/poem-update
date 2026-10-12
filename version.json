@@ -1,31 +1,17 @@
 {
-  "version": "0.0.6",
-  "notes": "更新分成两个按钮：检查软件更新 / 检查插件更新；插件按哈希校验，缺失或不一致自动重装（先删旧再装新）；修 mac 上校色读不到像素",
-  "publishedAt": "2026-10-12T10:06:10Z",
+  "version": "0.0.7",
+  "notes": "修「抓图」读不到文档列表（白名单漏项）；mac 便携版现在能软件内自动更新；下载改走镜像站；校色失败给人话提示",
+  "publishedAt": "2026-10-12T18:32:10Z",
   "app": {
-    "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.6/poem-app-0.0.6.zip",
-    "sha256": "64bfbb04b96a25adfd0e2ee19d315763f6b3723aee0193aa0770d73dc3586cde",
-    "size": 2243451
+    "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.7/poem-app-0.0.7.zip",
+    "sha256": "ea2ff7e1a9833ffb6a90caf60fb177028862301f1fb6f61be65dbd3bb883bbe0",
+    "size": 2255658
   },
   "full": {
-    "win32-x64": {
-      "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.6/poem-0.0.6-win32-x64.zip",
-      "sha256": "f78b8a26225fcfa4bd6cac63d571ab333826eec6b645e1464e2cb94ddc1299ad",
-      "size": 141467527,
-      "platform": "win32-x64"
-    },
-    "darwin-arm64": {
-      "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.6/poem-0.0.6-darwin-arm64.zip",
-      "sha256": "f5a631ef14bad7dc98116c3540dac416a5200552b9dc377c979702ef305712a7",
-      "size": 113482516,
-      "platform": "darwin-arm64"
-    },
-    "darwin-x64": {
-      "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.6/poem-0.0.6-darwin-x64.zip",
-      "sha256": "17329d1b09d3d1db7caa2dbd00f0d435f9acb76d774155bd09b39fe701a2e06a",
-      "size": 118645952,
-      "platform": "darwin-x64"
-    }
+    "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.7/poem-0.0.7-win32-x64.zip",
+    "sha256": "1c529b732b14dcfe364fff3d0a782f1ae7ca5de0cc4470d96dc622dea466f2cb",
+    "size": 141479734,
+    "platform": "win32-x64"
   },
   "pageUrl": "https://github.com/syyxl3111/poem-update/releases/latest",
   "url": "https://github.com/syyxl3111/poem-update/releases/latest",
