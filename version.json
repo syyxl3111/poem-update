@@ -1,29 +1,29 @@
 {
-  "version": "0.0.4",
-  "notes": "图层名改用 8 位随机号；手动传回会一次传回全部图片（以前只有一张）；插件校色修复",
-  "publishedAt": "2026-10-11T09:33:35Z",
+  "version": "0.0.6",
+  "notes": "更新分成两个按钮：检查软件更新 / 检查插件更新；插件按哈希校验，缺失或不一致自动重装（先删旧再装新）；修 mac 上校色读不到像素",
+  "publishedAt": "2026-10-12T10:06:10Z",
   "app": {
-    "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.4/poem-app-0.0.4.zip",
-    "sha256": "3bf3c5b38707875d714c2d4eac738b332be24a53084f10154b323f1256db76d0",
-    "size": 2237619
+    "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.6/poem-app-0.0.6.zip",
+    "sha256": "64bfbb04b96a25adfd0e2ee19d315763f6b3723aee0193aa0770d73dc3586cde",
+    "size": 2243451
   },
   "full": {
     "win32-x64": {
-      "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.4/poem-0.0.4-win32-x64.zip",
-      "sha256": "00cea8ebed1a01ef0163114d0b757355c6b23ebfdc01145049e3087dd01c0d45",
-      "size": 141461695,
+      "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.6/poem-0.0.6-win32-x64.zip",
+      "sha256": "f78b8a26225fcfa4bd6cac63d571ab333826eec6b645e1464e2cb94ddc1299ad",
+      "size": 141467527,
       "platform": "win32-x64"
     },
     "darwin-arm64": {
-      "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.4/poem-0.0.4-darwin-arm64.zip",
-      "sha256": "f0ffdc9ed5e92482c3f9278b7e6cc92fb7bba92f75fe26702e5c92a16fc1551a",
-      "size": 113477306,
+      "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.6/poem-0.0.6-darwin-arm64.zip",
+      "sha256": "f5a631ef14bad7dc98116c3540dac416a5200552b9dc377c979702ef305712a7",
+      "size": 113482516,
       "platform": "darwin-arm64"
     },
     "darwin-x64": {
-      "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.4/poem-0.0.4-darwin-x64.zip",
-      "sha256": "bb81acfad25d4f1757144a9139f6ef9eff0bc4582c3df84b11ad175531102e51",
-      "size": 118640742,
+      "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.6/poem-0.0.6-darwin-x64.zip",
+      "sha256": "17329d1b09d3d1db7caa2dbd00f0d435f9acb76d774155bd09b39fe701a2e06a",
+      "size": 118645952,
       "platform": "darwin-x64"
     }
   },
