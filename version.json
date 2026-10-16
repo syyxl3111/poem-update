@@ -1,17 +1,31 @@
 {
   "version": "0.0.8",
   "notes": "修复了一些已知问题，并且新增了背景外观调整",
-  "publishedAt": "2026-10-16T19:41:29Z",
+  "publishedAt": "2026-10-16T19:44:06Z",
   "app": {
     "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.8/poem-app-0.0.8.zip",
-    "sha256": "0f313eea109f70be7dfaa6193229cf58432c6cb62764cc7d84ecee0cd4f3d162",
+    "sha256": "8de550e1dd0ced264fb5a87d47e2a13ff6801a0ca63e784540b15c295ed3733a",
     "size": 1609866
   },
   "full": {
-    "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.8/poem-0.0.8-win32-x64.zip",
-    "sha256": "60a43e519b3690f4e0dd7a72a1f7df7c072ac6ee5af4604602acad17e7bb6d9d",
-    "size": 140833858,
-    "platform": "win32-x64"
+    "win32-x64": {
+      "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.8/poem-0.0.8-win32-x64.zip",
+      "sha256": "60a43e519b3690f4e0dd7a72a1f7df7c072ac6ee5af4604602acad17e7bb6d9d",
+      "size": 140833858,
+      "platform": "win32-x64"
+    },
+    "darwin-arm64": {
+      "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.8/poem-0.0.8-darwin-arm64.zip",
+      "sha256": "39e52a423288c80df787a0b29db74e96ce125e6630e45519f9c65df2e95739f1",
+      "size": 112839615,
+      "platform": "darwin-arm64"
+    },
+    "darwin-x64": {
+      "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.8/poem-0.0.8-darwin-x64.zip",
+      "sha256": "39942d3a0e3d4611075fcd345a6bc54001a8a1051a451730ea9b84d0572e87d8",
+      "size": 118003064,
+      "platform": "darwin-x64"
+    }
   },
   "pageUrl": "https://github.com/syyxl3111/poem-update/releases/latest",
   "url": "https://github.com/syyxl3111/poem-update/releases/latest",
