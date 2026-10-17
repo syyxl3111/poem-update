@@ -1,17 +1,31 @@
 {
   "version": "0.0.9",
   "notes": "双击图片可以看大图（滚轮缩放、拖动平移、左右翻页）；修复「添加图片」选不了本地文件",
-  "publishedAt": "2026-10-17T08:52:26Z",
+  "publishedAt": "2026-10-17T09:43:28Z",
   "app": {
     "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.9/poem-app-0.0.9.zip",
-    "sha256": "86543c23ad0923416abac7759e50b9334855a4761403bb9d7410f8b5ec59c8a0",
+    "sha256": "77897bd31125ce65fbbcac3a3770b628d8bc80c7a9ecc142ace46b5674e633ed",
     "size": 1612476
   },
   "full": {
-    "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.9/poem-0.0.9-win32-x64.zip",
-    "sha256": "9231374c6b840ecfa6fba7d96b83b70d0e16ca712774ab3986533537254064dc",
-    "size": 140836468,
-    "platform": "win32-x64"
+    "win32-x64": {
+      "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.9/poem-0.0.9-win32-x64.zip",
+      "sha256": "9231374c6b840ecfa6fba7d96b83b70d0e16ca712774ab3986533537254064dc",
+      "size": 140836468,
+      "platform": "win32-x64"
+    },
+    "darwin-arm64": {
+      "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.9/poem-0.0.9-darwin-arm64.zip",
+      "sha256": "e9d9e7ce40ce543664565889bae9884d46be2db937495ad4f24abffa300f8d8e",
+      "size": 112842262,
+      "platform": "darwin-arm64"
+    },
+    "darwin-x64": {
+      "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.0.9/poem-0.0.9-darwin-x64.zip",
+      "sha256": "2fb95da9b14b633b9a9ee75d18408a8d108f9c04850b25e228210413b9546b8d",
+      "size": 118005710,
+      "platform": "darwin-x64"
+    }
   },
   "pageUrl": "https://github.com/syyxl3111/poem-update/releases/latest",
   "url": "https://github.com/syyxl3111/poem-update/releases/latest",
