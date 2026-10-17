@@ -1,17 +1,31 @@
 {
   "version": "0.1.0",
   "notes": "修复一批多张图时 chat 方言排队生成（现在还并发，只错开 0.5 秒）；exe 图标与版本号补齐",
-  "publishedAt": "2026-10-17T10:51:43Z",
+  "publishedAt": "2026-10-17T11:05:21Z",
   "app": {
     "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.1.0/poem-app-0.1.0.zip",
-    "sha256": "88844a464dbfbf1b7271afbd8c53ce5a938c73a328f8c3a5322baa2858bfef9b",
+    "sha256": "7df237006f978d8568960315502782c5b5fc515450c428601da6b7ca9979332c",
     "size": 1612629
   },
   "full": {
-    "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.1.0/poem-0.1.0-win32-x64.zip",
-    "sha256": "2f54fe30fbb5ccd834ff7676511a558f0bce3260b0ecfc7e4d2f814616e04a06",
-    "size": 140979415,
-    "platform": "win32-x64"
+    "win32-x64": {
+      "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.1.0/poem-0.1.0-win32-x64.zip",
+      "sha256": "2f54fe30fbb5ccd834ff7676511a558f0bce3260b0ecfc7e4d2f814616e04a06",
+      "size": 140979415,
+      "platform": "win32-x64"
+    },
+    "darwin-arm64": {
+      "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.1.0/poem-0.1.0-darwin-arm64.zip",
+      "sha256": "428e108001eb7b292f3005f8a0ef29fac7952aa52b97873cb899893f72238657",
+      "size": 112842419,
+      "platform": "darwin-arm64"
+    },
+    "darwin-x64": {
+      "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.1.0/poem-0.1.0-darwin-x64.zip",
+      "sha256": "e7d8a78feaa6506d87f5256588ba8867f094176cb495708998683216285c1061",
+      "size": 118005867,
+      "platform": "darwin-x64"
+    }
   },
   "pageUrl": "https://github.com/syyxl3111/poem-update/releases/latest",
   "url": "https://github.com/syyxl3111/poem-update/releases/latest",
