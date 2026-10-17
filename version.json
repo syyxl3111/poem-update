@@ -1,29 +1,29 @@
 {
-  "version": "0.1.0",
-  "notes": "修复一批多张图时 chat 方言排队生成（现在还并发，只错开 0.5 秒）；exe 图标与版本号补齐",
-  "publishedAt": "2026-10-17T11:05:21Z",
+  "version": "0.1.1",
+  "notes": "修「直接生成」出错：chat 方言返回 2K 以上大图时解析会崩；诊断包/预设文件名与 PS 图层名不再出现 open-i；不连 PS 时不再亮红点",
+  "publishedAt": "2026-10-17T12:31:49Z",
   "app": {
-    "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.1.0/poem-app-0.1.0.zip",
-    "sha256": "7df237006f978d8568960315502782c5b5fc515450c428601da6b7ca9979332c",
-    "size": 1612629
+    "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.1.1/poem-app-0.1.1.zip",
+    "sha256": "ac1e3402f036e64d7e1489e3e8492a1af4769442d9895da65d1f6694cf43d9a7",
+    "size": 1613339
   },
   "full": {
     "win32-x64": {
-      "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.1.0/poem-0.1.0-win32-x64.zip",
-      "sha256": "2f54fe30fbb5ccd834ff7676511a558f0bce3260b0ecfc7e4d2f814616e04a06",
-      "size": 140979415,
+      "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.1.1/poem-0.1.1-win32-x64.zip",
+      "sha256": "11976bb44415d03d7ddfcad4de2e221ec24362ce5d8a1b38ae0564506e699a08",
+      "size": 140980125,
       "platform": "win32-x64"
     },
     "darwin-arm64": {
-      "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.1.0/poem-0.1.0-darwin-arm64.zip",
-      "sha256": "428e108001eb7b292f3005f8a0ef29fac7952aa52b97873cb899893f72238657",
-      "size": 112842419,
+      "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.1.1/poem-0.1.1-darwin-arm64.zip",
+      "sha256": "9a9cfa32901b61a9a192b1c29e8be7522eb672454fea4eff35e438fbcbd7f267",
+      "size": 112843122,
       "platform": "darwin-arm64"
     },
     "darwin-x64": {
-      "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.1.0/poem-0.1.0-darwin-x64.zip",
-      "sha256": "e7d8a78feaa6506d87f5256588ba8867f094176cb495708998683216285c1061",
-      "size": 118005867,
+      "url": "https://github.com/syyxl3111/poem-update/releases/download/v0.1.1/poem-0.1.1-darwin-x64.zip",
+      "sha256": "c60f9f2169d94d9eda53433f4fb3417c9c75fa5f377a9f1254cb21b70c386bb3",
+      "size": 118006570,
       "platform": "darwin-x64"
     }
   },
